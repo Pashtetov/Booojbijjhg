@@ -1,0 +1,9 @@
+.slide {
+    display: none;
+}
+.active {
+    display: block;
+}
+#moving-button {
+    position: absolute;
+}
